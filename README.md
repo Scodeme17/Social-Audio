@@ -25,19 +25,6 @@ cd quantum-social-audio
 pip install -r requirements.txt
 ```
 
-#### `requirements.txt`
-```
-transformers==4.30.0
-torch==2.0.1
-pennylane==0.32.0
-sounddevice==0.4.6
-scipy==1.10.1
-librosa==0.9.2
-kaggle==1.5.16
-python-dotenv==1.0.0
-huggingface_hub==0.15.1
-```
-
 ### 3. Kaggle API Setup
 1. Get your Kaggle API token (`kaggle.json`) from [Kaggle Account Settings](https://www.kaggle.com/settings).
 2. Place `kaggle.json` in `~/.kaggle/`:
