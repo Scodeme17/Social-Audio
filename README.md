@@ -16,7 +16,7 @@ A real-time voice sentiment detection system that combines **quantum machine lea
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quantum-social-audio.git
+git clone https://github.com/Scodeme17/quantum-social-audio.git
 cd quantum-social-audio
 ```
 
